@@ -16,5 +16,5 @@ touch warrior.txt mage.txt archer.txt
 # List the contents to check
 ls # List the contents to check
 
-#one-go
+# one-go
 # mkdir -p Arena && cd Arena && touch warrior.txt mage.txt archer.txt && ls
