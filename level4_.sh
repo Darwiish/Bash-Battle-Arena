@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#echo "Level 4: File Manipulation"
-#echo "Mission: Create a script that copies all .txt files from the Arena directory to a new directory called Backup."
+# echo "Level 4: File Manipulation
+# echo "Mission: Create a script that copies all .txt files from the Arena directory to a new directory called Backup.
 
 # Create the Backup directory if it doesn't exist
 mkdir -p Backup
