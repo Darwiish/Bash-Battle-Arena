@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "Level 1: The Basics "
-echo "Mission: Create a directory named Arena and then inside it, create three files: warrior.txt, mage.txt, and archer.txt."
-echo "Then list the contents of the Arena directory."
+# Level 1: The Basics
+# Mission: Create a directory named Arena and then inside it, create three files: warrior.txt, mage.txt, and archer.txt.
+# Then list the contents of the Arena directory.
 
 # Create the directory
 mkdir Arena
@@ -17,4 +17,4 @@ touch warrior.txt mage.txt archer.txt
 ls # List the contents to check
 
 #one-go
-mkdir -p Arena && cd Arena && touch warrior.txt mage.txt archer.txt && ls
+# mkdir -p Arena && cd Arena && touch warrior.txt mage.txt archer.txt && ls
