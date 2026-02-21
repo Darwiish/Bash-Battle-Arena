@@ -1,1 +1,5 @@
 INFO: User login
+<<<<<<< HEAD
+=======
+ERROR: Failed login attempt
+>>>>>>> e15ac7d (Level 8 log search script and sample log files)

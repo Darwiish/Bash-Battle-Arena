@@ -1,1 +1,5 @@
 INFO: System started
+<<<<<<< HEAD
+=======
+ERROR: Disk full
+>>>>>>> e15ac7d (Level 8 log search script and sample log files)

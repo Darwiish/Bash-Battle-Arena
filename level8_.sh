@@ -1,8 +1,14 @@
 #!/bin/bash
 
 # Search .log files for a word or phrase
+<<<<<<< HEAD
 # Searches all .log files in a specific directory
 # and prints the filenames containing the search term.
+=======
+# Description:
+#   Searches all .log files in a specific directory
+#   and prints the filenames containing the search term.
+>>>>>>> e15ac7d (Level 8 log search script and sample log files)
 
 DIRECTORY="Arena"   # Directory to search
 SEARCH_TERM="Error" # Word or phrase to search for

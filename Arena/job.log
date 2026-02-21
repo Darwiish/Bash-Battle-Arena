@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 DEBUG: Job initialized
+=======
+DEBUG: Cache cleared
+ERROR: Job completed
+>>>>>>> e15ac7d (Level 8 log search script and sample log files)
