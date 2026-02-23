@@ -1,7 +1,6 @@
-
 #!/bin/bash
 
-# Level 9: Monitor Directory Changes.
+# Monitor Directory Changes.
 
 DIRECTORY="Arena"
 LOG_FILE="change_log.txt"
