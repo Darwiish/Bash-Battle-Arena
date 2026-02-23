@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# BOSS BATTLE - Combining Basics
+# The BOSS BATTLE - Combining Basics
+# Level 5
 #1. Create a directory named 'Battlefield'.
 #2. Inside Battlefield, create files: knight.txt, sorcerer.txt, rogue.txt.
 #3. Check if knight.txt exists; if it does, move it to a new directory called Archive.
