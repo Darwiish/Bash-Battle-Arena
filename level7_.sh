@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Sort .txt files in a directory by size
-# Description:
 #   Lists all .txt files in the specified directory
 #   and sorts them from smallest to largest by file size.
 
