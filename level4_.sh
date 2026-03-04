@@ -10,6 +10,7 @@ cp Arena/*.txt Backup/
 # Confirmation message
 echo "All Files: copied and backed up from Arena to Backup."
 
+#------------------------------------------------------------------------
 echo
 
 SRC="Arena"
