@@ -1,3 +1,5 @@
+## Bash-Battle-Arena
+
 Interactive Bash system menu with backup and configuration parser. Demonstrates progressive scripting skills through 15 levels, including file management, conditionals, loops, backups, and interactive menus.
 
 ## Features
