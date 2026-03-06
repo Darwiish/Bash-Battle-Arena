@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Level 1: The Basics
-# Mission: Create a directory named Arena and then inside it, create three files: warrior.txt, mage.txt, and archer.txt.
+# Mission: Create a directory named Arena and then inside it,create three files: warrior.txt, mage.txt, and archer.txt.
 # Then list the contents of the Arena directory.
 
 # Create the directory
